@@ -1,0 +1,52 @@
+Here's a list of 50 basic Linux commands:
+
+pwd - Print working directory
+ls - List files and directories
+cd - Change directory
+cp - Copy files or directories
+mv - Move or rename files or directories
+rm - Remove files or directories
+mkdir - Create a new directory
+rmdir - Remove an empty directory
+touch - Create an empty file
+cat - Concatenate and display the content of files
+less - Display content of files page by page
+head - Display the first lines of a file
+tail - Display the last lines of a file
+nano - A simple text editor
+vim - A powerful text editor
+chmod - Change file permissions
+chown - Change file owner and group
+chgrp - Change group ownership of a file
+ps - Display information about running processes
+top - Display real-time system statistics
+kill - Terminate a process
+killall - Kill processes by name
+man - Display the manual for a command
+cpufreq-info - Display CPU frequency information
+df - Display disk space usage
+du - Display file and directory space usage
+free - Display amount of free and used memory
+df - Display disk space usage
+du - Display file and directory space usage
+free - Display amount of free and used memory
+grep - Search for a pattern in files
+find - Search for files and directories
+tar - Create or extract compressed archive files
+gzip - Compress or decompress files
+gunzip - Decompress files
+ping - Check network connectivity
+ifconfig - Display or configure network interfaces
+route - Display or configure routing table
+ssh - Connect to a remote server
+scp - Copy files between local and remote machines
+wget - Download files from the internet
+curl - Transfer data with URLs
+history - Display command history
+alias - Create or display command aliases
+date - Display or set the system date and time
+cal - Display a calendar
+who - Display information about logged-in users
+passwd - Change user password
+sudo - Execute a command as a superuser
+shutdown - Shut down the system
