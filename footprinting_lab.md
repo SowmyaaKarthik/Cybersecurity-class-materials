@@ -1,4 +1,4 @@
-
+::page{title="Footprinting and Reconnaissance"}
 # Footprinting and Reconnaissance
 
 Footprinting in the context of cybersecurity refers to the process of gathering information about a target system or network to identify potential vulnerabilities and weaknesses. It is a crucial phase in the ethical hacking or penetration testing process. Below are some lab modules that you can consider for teaching or learning about footprinting in cybersecurity:
@@ -56,6 +56,8 @@ dnsenum example.com   # Replace "example.com" with the target domain
 
 These commands serve as examples, and you may need to install the respective tools (Sublist3r and dnsenum) and adjust the syntax based on the specifics of your environment and requirements. Additionally, always ensure that you have the necessary permissions to perform DNS reconnaissance activities on the target domain, and adhere to ethical and legal guidelines.
 
+
+::page{title="WHOIS Information Gathering"}
 ## WHOIS Information Gathering:
 
 ### Objective: 
