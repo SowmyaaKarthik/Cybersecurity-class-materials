@@ -72,32 +72,37 @@ Objective: Introduce students to the basics of network scanning to identify live
 Lab Tasks:
 Use tools like Nmap to perform host discovery and port scanning.
 Analyze the results to identify potential entry points.
-Web Reconnaissance:
+
+## Web Reconnaissance:
 
 Objective: Explore methods for gathering information about web applications and services.
 Lab Tasks:
 Use web spidering tools like SpiderFoot to collect information from websites.
 Analyze robots.txt files and web archives for historical information.
 Identify technologies used on web servers (e.g., Wappalyzer).
-Email Harvesting:
+
+## Email Harvesting:
 
 Objective: Teach students how to collect email addresses associated with the target.
 Lab Tasks:
 Utilize tools like theHarvester to perform email reconnaissance.
 Extract email addresses from publicly available sources.
-Social Engineering Techniques:
+
+## Social Engineering Techniques:
 
 Objective: Introduce students to social engineering methods for information gathering.
 Lab Tasks:
 Conduct OSINT (Open Source Intelligence) using social media platforms.
 Simulate phishing attacks to gather user credentials.
-Footprinting Report:
+
+## Footprinting Report:
 
 Objective: Compile and present the information gathered during the footprinting phase.
 Lab Tasks:
 Document the findings in a comprehensive report.
 Provide recommendations for securing identified vulnerabilities.
-Legal and Ethical Considerations:
+
+## Legal and Ethical Considerations:
 
 Objective: Emphasize the importance of ethical hacking and compliance with legal regulations.
 Lab Tasks:
