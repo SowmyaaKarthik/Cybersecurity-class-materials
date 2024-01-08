@@ -4,8 +4,7 @@ Enumeration is a crucial phase in cybersecurity assessments and penetration test
 - Determine open ports and services running on each host.
 - Identify the operating system of the target machines.
   
-  ```
-nmap -sP 192.168.1.0/24  # Discover live hosts
+  ```nmap -sP 192.168.1.0/24  # Discover live hosts
 nmap -p 1-1000 192.168.1.1  # Scan specific ports
 nmap -O 192.168.1.1  # Identify the operating system
  ```
